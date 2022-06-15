@@ -1,0 +1,16 @@
+{
+  "name": "itec-80",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ITEC-80"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://noicaromike.github.io/ITEC-80",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
